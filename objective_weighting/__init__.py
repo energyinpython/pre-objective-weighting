@@ -1,4 +1,5 @@
+from . import mcdm_methods
 from . import additions
 from . import correlations
-from . import weighting_methods
 from . import normalizations
+from . import weighting_methods
